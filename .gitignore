@@ -1,4 +1,6 @@
 venv/
 .idea/
 Etherscan_API/
+Etherscan_API/src/etherscanapi_by_shady27/functions.py
+python_web3.py
 __pycache__
